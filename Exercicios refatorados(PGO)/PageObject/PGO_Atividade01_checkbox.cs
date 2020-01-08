@@ -15,7 +15,7 @@ namespace Exercicios_refatorados_PGO_.PageObject
 
         private readonly string link = "http://the-internet.herokuapp.com/checkboxes";
 
-
+         
         public PGO_Atividade01_checkbox(IWebDriver driver)
         {
             Driver = driver;
